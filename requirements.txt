@@ -1,0 +1,4 @@
+# Python version used: 3.12.3
+# Delta Lake is provided by the Databricks Runtime.
+
+pyspark==4.1.0
