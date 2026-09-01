@@ -1,0 +1,5 @@
+campaign_id,marketing_channel,total_interactions,total_impressions,total_clicks,total_website_visits,total_orders,total_units_sold,total_revenue,total_ad_spend,ctr_percent,conversion_rate_percent,roas
+CMP001,Email,2565,14028,256,249,50,104,1287175,139907.97,1.82,20.08,9.2
+CMP002,Social Media,2497,13836,327,301,36,70,723275,180748.81,2.36,11.96,4
+CMP003,Search,2431,13391,425,397,74,141,1533500,247788.11,3.17,18.64,6.19
+CMP004,Display,2507,13670,165,136,9,21,283625,95866.99,1.21,6.62,2.96
