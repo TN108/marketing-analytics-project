@@ -2,3 +2,7 @@
 # Delta Lake is provided by the Databricks Runtime.
 
 pyspark==4.1.0
+streamlit
+pandas
+openai
+python-dotenv
